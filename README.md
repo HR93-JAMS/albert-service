@@ -1,6 +1,7 @@
-# Project Name
+# SkyLodge: Image Module
 
-> Project description
+> The gallery component of a listings page, when background image is clicked it will open up
+> a lightbox modal component where the user can navigate through the photos for the particular listing
 
 ## Related Projects
 
