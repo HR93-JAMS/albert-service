@@ -4,10 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/skylodge/booking-service
+  - https://github.com/skylodge/similar_listings-service
+  - https://github.com/skylodge/reviews-service
 
 ## Table of Contents
 
@@ -27,6 +26,12 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 - etc
 
 ## Development
+1) Clone the repo to your machine, and cd into the directory 
+2) Run npm install 
+3) Set NODE_ENV to development
+4) Run npm run dev:client, and on another terminal, run npm start
+5) Watch the magic unfold on localhost:8080!
+
 
 ### Installing Dependencies
 
