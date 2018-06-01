@@ -9,6 +9,13 @@
   - https://github.com/skylodge/similar_listings-service
   - https://github.com/skylodge/reviews-service
 
+## Demo
+### Individual Module
+![Alt Text](https://imgur.com/a/EKjuxOz)
+
+### With Proxy
+![Alt Text](https://imgur.com/a/IIWlTjx)
+
 ## Table of Contents
 
 1. [Usage](#Usage)
