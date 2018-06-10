@@ -11,10 +11,10 @@
 
 ## Demo
 ### Individual Module
-![Alt Text](https://imgur.com/a/EKjuxOz)
+![Alt Text](https://s3.amazonaws.com/albertpersonal/2018-05-31+11-26-35.gif)
 
 ### With Proxy
-![Alt Text](https://imgur.com/a/IIWlTjx)
+![Alt Text](https://s3.amazonaws.com/albertpersonal/2018-04-30+20-05-25.gif)
 
 ## Table of Contents
 
