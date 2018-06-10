@@ -11,10 +11,10 @@
 
 ## Demo
 ### Individual Module
-![Alt Text](https://s3.amazonaws.com/albertpersonal/2018-05-31+11-26-35.gif)
+![Alt Text](readme_assets/image-service.gif)
 
 ### With Proxy
-![Alt Text](https://s3.amazonaws.com/albertpersonal/2018-04-30+20-05-25.gif)
+![Alt Text](readme_assets/skylodge-proxy.gif)
 
 ## Table of Contents
 
